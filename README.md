@@ -1,7 +1,7 @@
 <div class="main">
   <div class="demo">
-    <img src="image.png">
     <h1>Вот схема лифта в Roblox Studio с контроллером</h1>
+    <img src="image.png">
   </div>
   <h1>Ссылка на игру:</h1>
   https://www.roblox.com/games/80224166424065/RussEL-Elevator-Demo
