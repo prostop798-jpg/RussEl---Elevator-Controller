@@ -1,6 +1,6 @@
 <div class="main">
   <div class="demo">
-    <h1>Вот схема лифта в Roblox Studio с контроллером</h1>
+    <h1>Вот схема в Roblox Studio с контроллером</h1>
     <img src="image.png">
   </div>
   <h1>Ссылка на игру:</h1>
