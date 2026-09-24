@@ -12,7 +12,7 @@
   </ol>
   <div class="demo">
     <h1>Вот схема в Roblox Studio с контроллером</h1>
-    <img src="image.png">
+    <img src="v2.png">
   </div>
    <div class="ev-image">
     <h1>Пример:</h1>
