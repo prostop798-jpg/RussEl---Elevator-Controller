@@ -19,5 +19,5 @@
     <img src="demo image.png">
   </div>
   <h1>Ссылка на игру:</h1>
-  <a href="https://www.roblox.com/games/80224166424065/RussEL-Elevator-Demo"></a>
+  https://www.roblox.com/games/80224166424065/RussEL-Elevator-Demo
 </div>
